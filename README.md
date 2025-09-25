@@ -1,2 +1,2 @@
-# bestww
+# bestWW
 Best brainrot script 
